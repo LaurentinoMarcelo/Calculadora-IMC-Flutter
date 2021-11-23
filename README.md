@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
- <a href="#-sobre-o-projeto">Sobre</a> •
+ <a href="#-sobre-o-projeto">Sobre o projeto</a> •
  <a href="#-layout">Layout</a> • 
  <a href="#-tecnologias">Tecnologias</a>
 </p>
